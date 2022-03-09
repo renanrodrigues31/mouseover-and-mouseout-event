@@ -79,6 +79,7 @@ section {
 .button {
     margin-right: 1rem;
     display: none;
+    transition: 0.5s;
 }
 
 .buttonJs {
@@ -96,4 +97,5 @@ section {
 button img {
     margin-top: -9px;
     margin-left: -3px;
+    transition: 0.5s;
 }
